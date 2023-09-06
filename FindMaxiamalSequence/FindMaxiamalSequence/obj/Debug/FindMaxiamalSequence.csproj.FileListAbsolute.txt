@@ -1,0 +1,8 @@
+D:\Dev_Practice\2023\July_interviewPrepration\FindMaxiamalSequence\FindMaxiamalSequence\bin\Debug\FindMaxiamalSequence.exe.config
+D:\Dev_Practice\2023\July_interviewPrepration\FindMaxiamalSequence\FindMaxiamalSequence\bin\Debug\FindMaxiamalSequence.exe
+D:\Dev_Practice\2023\July_interviewPrepration\FindMaxiamalSequence\FindMaxiamalSequence\bin\Debug\FindMaxiamalSequence.pdb
+D:\Dev_Practice\2023\July_interviewPrepration\FindMaxiamalSequence\FindMaxiamalSequence\obj\Debug\FindMaxiamalSequence.csproj.AssemblyReference.cache
+D:\Dev_Practice\2023\July_interviewPrepration\FindMaxiamalSequence\FindMaxiamalSequence\obj\Debug\FindMaxiamalSequence.csproj.SuggestedBindingRedirects.cache
+D:\Dev_Practice\2023\July_interviewPrepration\FindMaxiamalSequence\FindMaxiamalSequence\obj\Debug\FindMaxiamalSequence.csproj.CoreCompileInputs.cache
+D:\Dev_Practice\2023\July_interviewPrepration\FindMaxiamalSequence\FindMaxiamalSequence\obj\Debug\FindMaxiamalSequence.exe
+D:\Dev_Practice\2023\July_interviewPrepration\FindMaxiamalSequence\FindMaxiamalSequence\obj\Debug\FindMaxiamalSequence.pdb

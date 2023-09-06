@@ -1,0 +1,8 @@
+D:\Dev_Practice\2023\July_interviewPrepration\MaximalSumofK\MaximalSumofK\bin\Debug\MaximalSumofK.exe.config
+D:\Dev_Practice\2023\July_interviewPrepration\MaximalSumofK\MaximalSumofK\bin\Debug\MaximalSumofK.exe
+D:\Dev_Practice\2023\July_interviewPrepration\MaximalSumofK\MaximalSumofK\bin\Debug\MaximalSumofK.pdb
+D:\Dev_Practice\2023\July_interviewPrepration\MaximalSumofK\MaximalSumofK\obj\Debug\MaximalSumofK.csproj.AssemblyReference.cache
+D:\Dev_Practice\2023\July_interviewPrepration\MaximalSumofK\MaximalSumofK\obj\Debug\MaximalSumofK.csproj.SuggestedBindingRedirects.cache
+D:\Dev_Practice\2023\July_interviewPrepration\MaximalSumofK\MaximalSumofK\obj\Debug\MaximalSumofK.csproj.CoreCompileInputs.cache
+D:\Dev_Practice\2023\July_interviewPrepration\MaximalSumofK\MaximalSumofK\obj\Debug\MaximalSumofK.exe
+D:\Dev_Practice\2023\July_interviewPrepration\MaximalSumofK\MaximalSumofK\obj\Debug\MaximalSumofK.pdb

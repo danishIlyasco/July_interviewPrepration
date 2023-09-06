@@ -1,0 +1,8 @@
+D:\Dev_Practice\2023\July_interviewPrepration\MatrixLikeWave\MatrixLikeWave\bin\Debug\MatrixLikeWave.exe.config
+D:\Dev_Practice\2023\July_interviewPrepration\MatrixLikeWave\MatrixLikeWave\bin\Debug\MatrixLikeWave.exe
+D:\Dev_Practice\2023\July_interviewPrepration\MatrixLikeWave\MatrixLikeWave\bin\Debug\MatrixLikeWave.pdb
+D:\Dev_Practice\2023\July_interviewPrepration\MatrixLikeWave\MatrixLikeWave\obj\Debug\MatrixLikeWave.csproj.AssemblyReference.cache
+D:\Dev_Practice\2023\July_interviewPrepration\MatrixLikeWave\MatrixLikeWave\obj\Debug\MatrixLikeWave.csproj.SuggestedBindingRedirects.cache
+D:\Dev_Practice\2023\July_interviewPrepration\MatrixLikeWave\MatrixLikeWave\obj\Debug\MatrixLikeWave.csproj.CoreCompileInputs.cache
+D:\Dev_Practice\2023\July_interviewPrepration\MatrixLikeWave\MatrixLikeWave\obj\Debug\MatrixLikeWave.exe
+D:\Dev_Practice\2023\July_interviewPrepration\MatrixLikeWave\MatrixLikeWave\obj\Debug\MatrixLikeWave.pdb

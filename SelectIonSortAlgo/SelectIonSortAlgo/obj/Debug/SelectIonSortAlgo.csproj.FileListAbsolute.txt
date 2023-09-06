@@ -1,0 +1,8 @@
+D:\Dev_Practice\2023\July_interviewPrepration\SelectIonSortAlgo\SelectIonSortAlgo\bin\Debug\SelectIonSortAlgo.exe.config
+D:\Dev_Practice\2023\July_interviewPrepration\SelectIonSortAlgo\SelectIonSortAlgo\bin\Debug\SelectIonSortAlgo.exe
+D:\Dev_Practice\2023\July_interviewPrepration\SelectIonSortAlgo\SelectIonSortAlgo\bin\Debug\SelectIonSortAlgo.pdb
+D:\Dev_Practice\2023\July_interviewPrepration\SelectIonSortAlgo\SelectIonSortAlgo\obj\Debug\SelectIonSortAlgo.csproj.AssemblyReference.cache
+D:\Dev_Practice\2023\July_interviewPrepration\SelectIonSortAlgo\SelectIonSortAlgo\obj\Debug\SelectIonSortAlgo.csproj.SuggestedBindingRedirects.cache
+D:\Dev_Practice\2023\July_interviewPrepration\SelectIonSortAlgo\SelectIonSortAlgo\obj\Debug\SelectIonSortAlgo.csproj.CoreCompileInputs.cache
+D:\Dev_Practice\2023\July_interviewPrepration\SelectIonSortAlgo\SelectIonSortAlgo\obj\Debug\SelectIonSortAlgo.exe
+D:\Dev_Practice\2023\July_interviewPrepration\SelectIonSortAlgo\SelectIonSortAlgo\obj\Debug\SelectIonSortAlgo.pdb

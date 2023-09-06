@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxiamalSequence", "FindMaxiamalSequence\FindMaxiamalSequence.csproj", "{9431E0AC-E3F6-42F4-A49E-1C5E9FF261F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9431E0AC-E3F6-42F4-A49E-1C5E9FF261F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9431E0AC-E3F6-42F4-A49E-1C5E9FF261F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9431E0AC-E3F6-42F4-A49E-1C5E9FF261F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9431E0AC-E3F6-42F4-A49E-1C5E9FF261F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BCB7D13-BCE0-4AB6-A8CC-D799CE53801D}
+	EndGlobalSection
+EndGlobal

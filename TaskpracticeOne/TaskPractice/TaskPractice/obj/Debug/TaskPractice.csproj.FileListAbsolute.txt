@@ -1,0 +1,7 @@
+D:\Dev_Practice\2023\July_interviewPrepration\TaskpracticeOne\TaskPractice\TaskPractice\obj\Debug\TaskPractice.csproj.AssemblyReference.cache
+D:\Dev_Practice\2023\July_interviewPrepration\TaskpracticeOne\TaskPractice\TaskPractice\obj\Debug\TaskPractice.csproj.CoreCompileInputs.cache
+D:\Dev_Practice\2023\July_interviewPrepration\TaskpracticeOne\TaskPractice\TaskPractice\bin\Debug\TaskPractice.exe.config
+D:\Dev_Practice\2023\July_interviewPrepration\TaskpracticeOne\TaskPractice\TaskPractice\bin\Debug\TaskPractice.exe
+D:\Dev_Practice\2023\July_interviewPrepration\TaskpracticeOne\TaskPractice\TaskPractice\bin\Debug\TaskPractice.pdb
+D:\Dev_Practice\2023\July_interviewPrepration\TaskpracticeOne\TaskPractice\TaskPractice\obj\Debug\TaskPractice.exe
+D:\Dev_Practice\2023\July_interviewPrepration\TaskpracticeOne\TaskPractice\TaskPractice\obj\Debug\TaskPractice.pdb

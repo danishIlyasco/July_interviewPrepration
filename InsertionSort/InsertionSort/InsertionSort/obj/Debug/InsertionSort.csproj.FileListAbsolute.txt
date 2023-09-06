@@ -1,0 +1,7 @@
+D:\Dev_Practice\2023\July_interviewPrepration\InsertionSort\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+D:\Dev_Practice\2023\July_interviewPrepration\InsertionSort\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
+D:\Dev_Practice\2023\July_interviewPrepration\InsertionSort\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+D:\Dev_Practice\2023\July_interviewPrepration\InsertionSort\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.AssemblyReference.cache
+D:\Dev_Practice\2023\July_interviewPrepration\InsertionSort\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+D:\Dev_Practice\2023\July_interviewPrepration\InsertionSort\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+D:\Dev_Practice\2023\July_interviewPrepration\InsertionSort\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb

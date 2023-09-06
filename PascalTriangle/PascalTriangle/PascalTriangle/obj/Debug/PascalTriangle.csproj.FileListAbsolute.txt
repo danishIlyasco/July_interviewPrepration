@@ -1,0 +1,8 @@
+D:\Dev_Practice\2023\July_interviewPrepration\PascalTriangle\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+D:\Dev_Practice\2023\July_interviewPrepration\PascalTriangle\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe
+D:\Dev_Practice\2023\July_interviewPrepration\PascalTriangle\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.pdb
+D:\Dev_Practice\2023\July_interviewPrepration\PascalTriangle\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.csproj.AssemblyReference.cache
+D:\Dev_Practice\2023\July_interviewPrepration\PascalTriangle\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.csproj.SuggestedBindingRedirects.cache
+D:\Dev_Practice\2023\July_interviewPrepration\PascalTriangle\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.csproj.CoreCompileInputs.cache
+D:\Dev_Practice\2023\July_interviewPrepration\PascalTriangle\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.exe
+D:\Dev_Practice\2023\July_interviewPrepration\PascalTriangle\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.pdb

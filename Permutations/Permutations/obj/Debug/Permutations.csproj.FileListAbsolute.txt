@@ -1,0 +1,8 @@
+D:\Dev_Practice\2023\July_interviewPrepration\Permutations\Permutations\bin\Debug\Permutations.exe.config
+D:\Dev_Practice\2023\July_interviewPrepration\Permutations\Permutations\bin\Debug\Permutations.exe
+D:\Dev_Practice\2023\July_interviewPrepration\Permutations\Permutations\bin\Debug\Permutations.pdb
+D:\Dev_Practice\2023\July_interviewPrepration\Permutations\Permutations\obj\Debug\Permutations.csproj.AssemblyReference.cache
+D:\Dev_Practice\2023\July_interviewPrepration\Permutations\Permutations\obj\Debug\Permutations.csproj.SuggestedBindingRedirects.cache
+D:\Dev_Practice\2023\July_interviewPrepration\Permutations\Permutations\obj\Debug\Permutations.csproj.CoreCompileInputs.cache
+D:\Dev_Practice\2023\July_interviewPrepration\Permutations\Permutations\obj\Debug\Permutations.exe
+D:\Dev_Practice\2023\July_interviewPrepration\Permutations\Permutations\obj\Debug\Permutations.pdb

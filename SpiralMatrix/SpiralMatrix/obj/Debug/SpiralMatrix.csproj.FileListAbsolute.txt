@@ -1,0 +1,8 @@
+D:\Dev_Practice\2023\July_interviewPrepration\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+D:\Dev_Practice\2023\July_interviewPrepration\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+D:\Dev_Practice\2023\July_interviewPrepration\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+D:\Dev_Practice\2023\July_interviewPrepration\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.csproj.AssemblyReference.cache
+D:\Dev_Practice\2023\July_interviewPrepration\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.csproj.SuggestedBindingRedirects.cache
+D:\Dev_Practice\2023\July_interviewPrepration\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.csproj.CoreCompileInputs.cache
+D:\Dev_Practice\2023\July_interviewPrepration\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+D:\Dev_Practice\2023\July_interviewPrepration\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.pdb
